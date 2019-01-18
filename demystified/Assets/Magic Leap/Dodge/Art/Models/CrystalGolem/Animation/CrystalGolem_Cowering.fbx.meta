@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 6ba48e1050c3a1a4c9cba2155025d296
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base_crystals1
+    100002: base_crystals2
+    100004: base_crystals3
+    100006: bridge
+    100008: //RootNode
+    100010: CrystalGolem_Mesh
+    100012: head_base
+    100014: head_upper
+    100016: hub
+    100018: hub_crystals1
+    100020: hub_crystals2
+    100022: hub_crystals3
+    100024: l_arm
+    100026: l_brow_inner
+    100028: l_brow_outer
+    100030: l_cheek
+    100032: l_gear1
+    100034: l_gear2
+    100036: l_gear3
+    100038: l_gear4
+    100040: l_hand
+    100042: l_index_base
+    100044: l_index_end
+    100046: l_middle_base
+    100048: l_middle_end
+    100050: l_pinky_base
+    100052: l_pinky_end
+    100054: l_shoulder
+    100056: l_thumb_base
+    100058: l_thumb_end
+    100060: l_wrist
+    100062: mouth
+    100064: r_arm
+    100066: r_brow_inner
+    100068: r_brow_outer
+    100070: r_cheek
+    100072: r_gear1
+    100074: r_gear2
+    100076: r_gear3
+    100078: r_gear4
+    100080: r_hand
+    100082: r_index_base
+    100084: r_index_end
+    100086: r_middle_base
+    100088: r_middle_end
+    100090: r_pinky_base
+    100092: r_pinky_end
+    100094: r_shoulder
+    100096: r_thumb_base
+    100098: r_thumb_end
+    100100: r_wrist
+    100102: Skeleton
+    100104: spine_base
+    100106: spine_end
+    100108: spine_mid1
+    400000: base_crystals1
+    400002: base_crystals2
+    400004: base_crystals3
+    400006: bridge
+    400008: //RootNode
+    400010: CrystalGolem_Mesh
+    400012: head_base
+    400014: head_upper
+    400016: hub
+    400018: hub_crystals1
+    400020: hub_crystals2
+    400022: hub_crystals3
+    400024: l_arm
+    400026: l_brow_inner
+    400028: l_brow_outer
+    400030: l_cheek
+    400032: l_gear1
+    400034: l_gear2
+    400036: l_gear3
+    400038: l_gear4
+    400040: l_hand
+    400042: l_index_base
+    400044: l_index_end
+    400046: l_middle_base
+    400048: l_middle_end
+    400050: l_pinky_base
+    400052: l_pinky_end
+    400054: l_shoulder
+    400056: l_thumb_base
+    400058: l_thumb_end
+    400060: l_wrist
+    400062: mouth
+    400064: r_arm
+    400066: r_brow_inner
+    400068: r_brow_outer
+    400070: r_cheek
+    400072: r_gear1
+    400074: r_gear2
+    400076: r_gear3
+    400078: r_gear4
+    400080: r_hand
+    400082: r_index_base
+    400084: r_index_end
+    400086: r_middle_base
+    400088: r_middle_end
+    400090: r_pinky_base
+    400092: r_pinky_end
+    400094: r_shoulder
+    400096: r_thumb_base
+    400098: r_thumb_end
+    400100: r_wrist
+    400102: Skeleton
+    400104: spine_base
+    400106: spine_end
+    400108: spine_mid1
+    2100000: TorsoMAT
+    2100002: HubMAT
+    2100004: ArmsMAT
+    4300000: CrystalGolem_Mesh
+    7400000: Cowering_Start
+    7400002: Cowering_Loop
+    9500000: //RootNode
+    13700000: CrystalGolem_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cowering_Start
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PropagateAnimationEvent
+        data: golem_cower_start
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cowering_Loop
+      takeName: Take 001
+      firstFrame: 27
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PropagateAnimationEvent
+        data: golem_cower_loop
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

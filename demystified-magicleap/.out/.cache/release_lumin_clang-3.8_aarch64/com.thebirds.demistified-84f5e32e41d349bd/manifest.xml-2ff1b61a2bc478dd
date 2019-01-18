@@ -1,0 +1,11 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="37a087ac-3228-48b8-ac00-124313779ec2" ml:package="com.thebirds.demistified" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="Demistified">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="CameraCapture" />
+    <uses-privilege ml:name="ControllerPose" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Demistified">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

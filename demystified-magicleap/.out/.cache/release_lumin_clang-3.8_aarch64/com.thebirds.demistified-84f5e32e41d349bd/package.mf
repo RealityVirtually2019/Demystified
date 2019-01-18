@@ -1,0 +1,268 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "10994557367fe6348d702e21e464762007545df6",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2885924,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "5d82502644349c41b1d6dc6cef7cf57db1b0a93d",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 35954584,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3221294f9d06aa5d16a339f95c34a55025821e0e",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libil2cpp.so-755fd36c3829a956",
+   "xfrm_size": 35955342
+  },
+  {
+   "compression": 8,
+   "hash": "99be27c27e2af134a459a05f2240800e1a0eddd0",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 247376,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0b9e76f733ba808c7da49d2ffb62e25d9f2a5365",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/AudioPluginMSASpatializer.so-1ba8c74533a3ec12",
+   "xfrm_size": 248134
+  },
+  {
+   "compression": 8,
+   "hash": "e1d6a3392ecde066ea0cc34538e9839d8d87671d",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c0a15a2993e1f9df9db7db864cb0c8f8fa94ca45",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5d9692465d4c67504cf562abd8ed40594aa9f6dd",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/UnityMagicLeap.so-1ba8c74533a3ec12",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "2769affdc8da0f6923bee02d6928163c6d1ee44f",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c059f95abe74588ce4b98c56beafa3d4f5295f1f",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libml_camera_plugin.so-1ba8c74533a3ec12",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "d8be78bce4b9d6484096ddc11bbdaf7a8ea4da11",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3e009e44a62ea3dc5d830c559711c03f897d70d4",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libml_mediaplayer_plugin.so-1ba8c74533a3ec12",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1a992ef2c40155d35c04ae43e256729d23934be6",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 286156,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "06b0658b1e3ac8e06edd4bbfbfde8f76e3eee2df",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 32688,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "194b0cd991d86f705831f1f76894d0cc24331c9a",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 33808,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "3b2ef7bf108f2aec7ce4de256a4ee212e456eec9",
+   "pkgpath": "Data/level0",
+   "size": 26380,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "493eee247ebd78404ae5852c34d0c69e9549d84f",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "fbd7b8c88c36cad81c7c60bd440caa096640c948",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 5566820,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "65a49da18555136b9b8126cbab7c60b006abe468",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 17938688,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "2941838c7996ccf3b3ce8ed1a7a864d172bd4b7c",
+   "pkgpath": "bin/Player.elf",
+   "size": 22314872,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6494254f87d84fd7879d9e2f547a590b03902437",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/Player.elf-2ff1b61a2bc478dd",
+   "xfrm_size": 22315630
+  },
+  {
+   "compression": 8,
+   "hash": "b06b49ffd1f48915853dd55c829b48b346070798",
+   "pkgpath": "manifest.xml",
+   "size": 655,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "a4eb7c344fd6580e5fd8bcae80aee1cfb1e24652",
+     "developer_id": "37a087ac-3228-48b8-ac00-124313779ec2"
+    }
+   },
+   "xfrm_hash": "3fd5198393dcb9bf8ae3e36e462add73fd7d9a6b",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/manifest.xml-2ff1b61a2bc478dd",
+   "xfrm_size": 668
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/cierajones/MagicLeap/mlsdk/v0.17.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0a1c8967b25c7f3b0f7a1f21d05c050b9ce7035d",
+   "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libc++_shared.so-992a8561109ad3c8",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/cierajones/Documents/Unity Projects/2019-RealityVirtuallyHackathong/thebirdsmithackathon.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 7328d15e2855d4743a7618d5bb089ac5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: polySurface21
+    100002: pPlane8
+    100004: //RootNode
+    100006: TAP_Boulder_Impact1
+    100008: TAP_Boulder_Impact2
+    100010: TAP_Boulder_Rock
+    100012: TAP_BoulderGround
+    100014: TAP_Impact_Cracks
+    100016: TAP_Impact_Cracks 1
+    100018: TAP_Impact_Explosion
+    100020: TAP_Impact_Explosion 1
+    100022: TAP_Impact_Explosion01
+    100024: TAP_Impact_Explosion01 1
+    100026: TAP_Impact_Explosion02
+    100028: TAP_Impact_Explosion02 1
+    100030: TAP_Impact_Explosion03
+    100032: TAP_Impact_Explosion03 1
+    100034: TAP_Impact_Explosion04
+    100036: TAP_Impact_Explosion04 1
+    100038: TAP_Impact_Explosion05
+    100040: TAP_Impact_Explosion05 1
+    100042: TAP_Impact_Explosion06
+    100044: TAP_Impact_Explosion06 1
+    100046: TAP_Impact_Ground
+    100048: TAP_Impact_Ground 1
+    100050: TAP_Impact_LineCracks
+    100052: TAP_Impact_LineCracks 1
+    100054: TAP_Impact_Mask
+    100056: TAP_Impact_Mask 1
+    100058: TAP_Impact_Ring01
+    100060: TAP_Impact_Ring01 1
+    100062: TAP_Impact_Ring02
+    100064: TAP_Impact_Ring02 1
+    100066: TAP_Impact_Ring03
+    100068: TAP_Impact_Ring03 1
+    100070: TAP_Impact_Rings
+    100072: TAP_Impact_Rings 1
+    100074: TAP_Impact_Wave
+    100076: TAP_Impact_Wave 1
+    400000: polySurface21
+    400002: pPlane8
+    400004: //RootNode
+    400006: TAP_Boulder_Impact1
+    400008: TAP_Boulder_Impact2
+    400010: TAP_Boulder_Rock
+    400012: TAP_BoulderGround
+    400014: TAP_Impact_Cracks
+    400016: TAP_Impact_Cracks 1
+    400018: TAP_Impact_Explosion
+    400020: TAP_Impact_Explosion 1
+    400022: TAP_Impact_Explosion01
+    400024: TAP_Impact_Explosion01 1
+    400026: TAP_Impact_Explosion02
+    400028: TAP_Impact_Explosion02 1
+    400030: TAP_Impact_Explosion03
+    400032: TAP_Impact_Explosion03 1
+    400034: TAP_Impact_Explosion04
+    400036: TAP_Impact_Explosion04 1
+    400038: TAP_Impact_Explosion05
+    400040: TAP_Impact_Explosion05 1
+    400042: TAP_Impact_Explosion06
+    400044: TAP_Impact_Explosion06 1
+    400046: TAP_Impact_Ground
+    400048: TAP_Impact_Ground 1
+    400050: TAP_Impact_LineCracks
+    400052: TAP_Impact_LineCracks 1
+    400054: TAP_Impact_Mask
+    400056: TAP_Impact_Mask 1
+    400058: TAP_Impact_Ring01
+    400060: TAP_Impact_Ring01 1
+    400062: TAP_Impact_Ring02
+    400064: TAP_Impact_Ring02 1
+    400066: TAP_Impact_Ring03
+    400068: TAP_Impact_Ring03 1
+    400070: TAP_Impact_Rings
+    400072: TAP_Impact_Rings 1
+    400074: TAP_Impact_Wave
+    400076: TAP_Impact_Wave 1
+    2100000: TAP_Impact_Mask_MAT
+    2100002: TAP_Boulder_Ground_MAT
+    2100004: TAP_Boulder_Rock_MAT
+    2100006: TAP_Impact_Explosion_MAT
+    2100008: TAP_Impact_Ring_MAT
+    2100010: lambert1
+    2100012: TAP_Impact_Ground_MAT
+    2100014: TAP_Impact_Cracks_MAT
+    2300000: polySurface21
+    2300002: pPlane8
+    2300004: TAP_Boulder_Rock
+    2300006: TAP_Impact_Cracks
+    2300008: TAP_Impact_Cracks 1
+    2300010: TAP_Impact_Explosion01
+    2300012: TAP_Impact_Explosion01 1
+    2300014: TAP_Impact_Explosion02
+    2300016: TAP_Impact_Explosion02 1
+    2300018: TAP_Impact_Explosion03
+    2300020: TAP_Impact_Explosion03 1
+    2300022: TAP_Impact_Explosion04
+    2300024: TAP_Impact_Explosion04 1
+    2300026: TAP_Impact_Explosion05
+    2300028: TAP_Impact_Explosion05 1
+    2300030: TAP_Impact_Explosion06
+    2300032: TAP_Impact_Explosion06 1
+    2300034: TAP_Impact_LineCracks
+    2300036: TAP_Impact_LineCracks 1
+    2300038: TAP_Impact_Mask
+    2300040: TAP_Impact_Mask 1
+    2300042: TAP_Impact_Ring01
+    2300044: TAP_Impact_Ring01 1
+    2300046: TAP_Impact_Ring02
+    2300048: TAP_Impact_Ring02 1
+    2300050: TAP_Impact_Ring03
+    2300052: TAP_Impact_Ring03 1
+    2300054: TAP_Impact_Wave
+    2300056: TAP_Impact_Wave 1
+    3300000: polySurface21
+    3300002: pPlane8
+    3300004: TAP_Boulder_Rock
+    3300006: TAP_Impact_Cracks
+    3300008: TAP_Impact_Cracks 1
+    3300010: TAP_Impact_Explosion01
+    3300012: TAP_Impact_Explosion01 1
+    3300014: TAP_Impact_Explosion02
+    3300016: TAP_Impact_Explosion02 1
+    3300018: TAP_Impact_Explosion03
+    3300020: TAP_Impact_Explosion03 1
+    3300022: TAP_Impact_Explosion04
+    3300024: TAP_Impact_Explosion04 1
+    3300026: TAP_Impact_Explosion05
+    3300028: TAP_Impact_Explosion05 1
+    3300030: TAP_Impact_Explosion06
+    3300032: TAP_Impact_Explosion06 1
+    3300034: TAP_Impact_LineCracks
+    3300036: TAP_Impact_LineCracks 1
+    3300038: TAP_Impact_Mask
+    3300040: TAP_Impact_Mask 1
+    3300042: TAP_Impact_Ring01
+    3300044: TAP_Impact_Ring01 1
+    3300046: TAP_Impact_Ring02
+    3300048: TAP_Impact_Ring02 1
+    3300050: TAP_Impact_Ring03
+    3300052: TAP_Impact_Ring03 1
+    3300054: TAP_Impact_Wave
+    3300056: TAP_Impact_Wave 1
+    4300000: polySurface21
+    4300002: pPlane8
+    4300004: TAP_Boulder_Rock
+    4300006: TAP_Impact_Explosion03
+    4300008: TAP_Impact_Explosion02
+    4300010: TAP_Impact_Explosion01
+    4300012: TAP_Impact_Explosion04
+    4300014: TAP_Impact_Explosion05
+    4300016: TAP_Impact_Explosion06
+    4300018: TAP_Impact_Ring01
+    4300020: TAP_Impact_Ring02
+    4300022: TAP_Impact_Ring03
+    4300024: TAP_Impact_Wave
+    4300026: TAP_Impact_Cracks
+    4300028: TAP_Impact_Mask
+    4300030: TAP_Impact_LineCracks
+    4300032: TAP_Impact_Explosion03
+    4300034: TAP_Impact_Explosion02
+    4300036: TAP_Impact_Explosion01
+    4300038: TAP_Impact_Explosion04
+    4300040: TAP_Impact_Explosion05
+    4300042: TAP_Impact_Explosion06
+    4300044: TAP_Impact_Ring01
+    4300046: TAP_Impact_Ring02
+    4300048: TAP_Impact_Ring03
+    4300050: TAP_Impact_Wave
+    4300052: TAP_Impact_Cracks
+    4300054: TAP_Impact_Mask
+    4300056: TAP_Impact_LineCracks
+    7400000: TAP_Boulder
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Boulder_Ground_MAT
+    second: {fileID: 2100000, guid: c4c7e7a0feccebd409d6108278cf033e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Boulder_Rock_MAT
+    second: {fileID: 2100000, guid: 6b85db98e9f529e4a84a4296541e5d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Impact_Cracks_MAT
+    second: {fileID: 2100000, guid: bb0e93e3b133c43439f5e73d7600f183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Impact_Explosion_MAT
+    second: {fileID: 2100000, guid: bd86fb46e5ca53944b3eeeb3550b2106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Impact_Ground_MAT
+    second: {fileID: 2100000, guid: 9a262b5f48964b745affa7ceb76d28ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Impact_Mask_MAT
+    second: {fileID: 2100000, guid: 9044053630626014e8b54b9850e6b179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAP_Impact_Ring_MAT
+    second: {fileID: 2100000, guid: cc4640aa4ea138b49927edb77861150c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 8b164c306df616a4ea2af4e1e8963e0e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TAP_Boulder
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
