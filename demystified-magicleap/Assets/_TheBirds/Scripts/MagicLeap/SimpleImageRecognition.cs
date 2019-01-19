@@ -29,6 +29,7 @@ namespace MagicLeap
         [HideInInspector]
         public bool _targetFound = false;
 
+        [HideInInspector]
         public bool firstDetectionMade = false; 
         [SerializeField, Tooltip("Text to update on ImageTracking changes.")]
        // private Text _statusLabel;
@@ -42,51 +43,16 @@ namespace MagicLeap
         [HideInInspector]
         private GameObject _trackingCube;
         [SerializeField, Tooltip("Game Object showing the demo")]
-        private GameObject _demo;
-
-        public ImageTrackingExample.ViewMode _lastViewMode = ImageTrackingExample.ViewMode.All;
+        private GameObject _ImageAnchor;
         #endregion
 
         #region Unity Methods
-        /// <summary>
-        /// Validate inspector variables
-        /// </summary>
-        void Awake()
-        {
-            if (null == _axis)
-            {
-                Debug.LogError("Error: ImageTrackingVisualizer._axis is not set, disabling script.");
-                enabled = false;
-                return;
-            }
-            if (null == _trackingCube)
-            {
-                Debug.LogError("Error: ImageTrackingVisualizer._trackingCube is not set, disabling script.");
-                enabled = false;
-                return;
-            }
-            if (null == _demo)
-            {
-                Debug.LogError("Error: ImageTrackingVisualizer._demo is not set, disabling script.");
-                enabled = false;
-                return;
-            }
-           /* if (null == _statusLabel)
-            {
-                Debug.LogError("Error: ImageTrackingVisualizer._statusLabel is not set, disabling script.");
-                enabled = false;
-                return;
-            }*/
-        }
-
+       
         /// <summary>
         /// Initializes variables and register callbacks
         /// </summary>
         void Start()
         {
-           // _prefix = _statusLabel.text;
-//            _statusLabel.text = _prefix + "Target Lost";
-
             _trackerBehavior = GetComponent<MLImageTrackerBehavior>();
             _trackerBehavior.OnTargetFound += OnTargetFound;
             _trackerBehavior.OnTargetLost += OnTargetLost;
@@ -111,7 +77,6 @@ namespace MagicLeap
         /// <param name="viewMode">Contains the mode to view</param>
         public void UpdateViewMode(ImageTrackingExample.ViewMode viewMode)
         {
-            _lastViewMode = viewMode;
             RefreshViewMode();
         }
         #endregion
@@ -125,7 +90,7 @@ namespace MagicLeap
 
             if(!firstDetectionMade && _targetFound){
                 firstDetectionMade = true;
-                _demo.SetActive(true);
+                _ImageAnchor.SetActive(true);
 
             }
 

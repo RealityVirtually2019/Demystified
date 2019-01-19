@@ -14,3 +14,5 @@ MonoBehaviour:
   Smoke: {fileID: 0}
   hasSmokeCleared: 0
   hasSmokeInstantiated: 0
+  hasDressInstantiated: 0
+  Dress: {fileID: 0}
