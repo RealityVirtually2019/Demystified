@@ -9,7 +9,7 @@
   },
   {
    "compression": 8,
-   "hash": "5d82502644349c41b1d6dc6cef7cf57db1b0a93d",
+   "hash": "cdc112a8f4965fb67613f095c41524f4eb560e06",
    "pkgpath": "bin/libil2cpp.so",
    "size": 35954584,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Native/libil2cpp.so",
@@ -22,7 +22,7 @@
      "version": 3
     }
    },
-   "xfrm_hash": "3221294f9d06aa5d16a339f95c34a55025821e0e",
+   "xfrm_hash": "6d120bbce312c582959f621a40aecc9d528a1256",
    "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libil2cpp.so-755fd36c3829a956",
    "xfrm_size": 35955342
   },
@@ -160,9 +160,9 @@
   },
   {
    "compression": 8,
-   "hash": "06b0658b1e3ac8e06edd4bbfbfde8f76e3eee2df",
+   "hash": "04a4799c9d7a42aac64d937037c2fa18efa98029",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 32688,
+   "size": 32656,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
@@ -174,9 +174,9 @@
   },
   {
    "compression": 8,
-   "hash": "3b2ef7bf108f2aec7ce4de256a4ee212e456eec9",
+   "hash": "7842ae89cc551f17299d9a49a32b83e094f70876",
    "pkgpath": "Data/level0",
-   "size": 26380,
+   "size": 25728,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
   },
   {
@@ -188,16 +188,16 @@
   },
   {
    "compression": 8,
-   "hash": "fbd7b8c88c36cad81c7c60bd440caa096640c948",
+   "hash": "2891cc4ff83fb2315981095a795a64f65d083db2",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 5566820,
+   "size": 4057588,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "65a49da18555136b9b8126cbab7c60b006abe468",
+   "hash": "db5c464325c642e155dad8ce838d5f46c733bb5a",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 17938688,
+   "size": 12260240,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
