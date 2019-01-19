@@ -46,6 +46,7 @@ public class TimedUnityEvents : MonoBehaviour
    
     [Header("Debuggin, Dont touch!")]
     public float currentTime;
+    [HideInInspector]
     public float timePlaying = 0;
     private float startTime = 0;
     private bool isPlaying;

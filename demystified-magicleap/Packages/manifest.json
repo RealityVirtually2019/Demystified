@@ -1,4 +1,5 @@
 {
-	"dependencies": {
-	}
+  "dependencies": {
+    "com.unity.vectorgraphics": "1.0.0-preview.23"
+  }
 }
