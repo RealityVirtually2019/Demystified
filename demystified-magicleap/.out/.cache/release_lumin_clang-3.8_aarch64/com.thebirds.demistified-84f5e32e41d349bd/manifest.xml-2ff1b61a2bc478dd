@@ -4,6 +4,7 @@
     <uses-privilege ml:name="CameraCapture" />
     <uses-privilege ml:name="ControllerPose" />
     <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
     <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Demistified">
       <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
     </component>

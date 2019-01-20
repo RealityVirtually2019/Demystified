@@ -20,14 +20,23 @@ public class MostUpdatedImageLocation : MonoBehaviour {
         else if (instance != this) { Destroy(gameObject); }   
 
 	}
-
+	private void OnEnable()
+	{
+        this.transform.rotation = lookAtCameraYAxis();
+	}
 	private void Update()
 	{
         if(paintingDetected){
             this.transform.position = Vector3.Lerp(this.transform.position, this.currentPaintingPosition, Time.deltaTime * 2);
-            this.transform.rotation = Quaternion.Lerp(this.transform.rotation, this.currentPaintingRotation, Time.deltaTime * 2);
+            this.transform.rotation = Quaternion.Lerp(this.transform.rotation,this.currentPaintingRotation, Time.deltaTime * .5f);
         }
 	}
+
+    public static Quaternion lookAtCameraYAxis()
+    {
+        Vector3 temp = new Vector3(180, Camera.main.transform.localRotation.eulerAngles.y, 180);
+        return Quaternion.Euler(temp);
+    }
 
 
 }

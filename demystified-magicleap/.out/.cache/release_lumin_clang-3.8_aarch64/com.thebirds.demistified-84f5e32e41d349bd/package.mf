@@ -2,16 +2,16 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "83d87a797bc6df852a043d37d58928696c0a7125",
+   "hash": "7cd88599511726798fbeb90c0b1465f9ce145d44",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3877020,
+   "size": 3877860,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "28fd72473040cee66db1b89869ebd653adf04808",
+   "hash": "3470f6244cb62a2572bcdf4fcf5aedb69d9eaab0",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 49992488,
+   "size": 50000312,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -22,9 +22,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "a2b242e18062e77ebefe935206c612e7084c07da",
+   "xfrm_hash": "ef72add01e1b6764e4779cb7e7f1b6fc1c8791c0",
    "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libil2cpp.so-755fd36c3829a956",
-   "xfrm_size": 49993246
+   "xfrm_size": 50001070
   },
   {
    "compression": 8,
@@ -160,44 +160,44 @@
   },
   {
    "compression": 8,
-   "hash": "e94f37ceb3672f4473101d39d9a133a2d99cce64",
+   "hash": "49c6d5401de5f34f4f84e0b894795b4ddc550f10",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 34536,
+   "size": 34544,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "fb0f661390bc57f7843f77fb8b6b6b640f2ec9b5",
+   "hash": "76da8e9b0f9229ce5740057d18fdd950a9565187",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 38896,
+   "size": 39008,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "b5426e1ad6c15c3b9e2ba6c2dd69598b51879e7f",
+   "hash": "02dcdac4ff538f56d7d6d3fef5fd0c87c8ad1265",
    "pkgpath": "Data/level0",
-   "size": 30260,
+   "size": 70788,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
   },
   {
    "compression": 8,
-   "hash": "493eee247ebd78404ae5852c34d0c69e9549d84f",
+   "hash": "598ea8a7a9d9dfbf2fbcaf48cff2b1ddf8f51a70",
    "pkgpath": "Data/level0.resS",
    "size": 131232,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0.resS"
   },
   {
    "compression": 8,
-   "hash": "cdaf36e932d53d0f58bf2905f77ebb01c3e80f83",
+   "hash": "3052d69639c25f5fe4190952b6eb9702d547dc7f",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 6019484,
+   "size": 5819188,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "3ef5f0c1d73991394c6ee2109943cf7169a7e459",
+   "hash": "1ab9524cd2cdfb8f8dcf24cf009feeecd6e8bdd0",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 9986960,
+   "size": 12383092,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
@@ -221,9 +221,9 @@
   },
   {
    "compression": 8,
-   "hash": "b06b49ffd1f48915853dd55c829b48b346070798",
+   "hash": "ba014116c12bfb6f6686c62045d95badf6a39238",
    "pkgpath": "manifest.xml",
-   "size": 655,
+   "size": 706,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/manifest.xml",
    "xfrm_flags": {
     "manifest": {
@@ -231,9 +231,9 @@
      "developer_id": "37a087ac-3228-48b8-ac00-124313779ec2"
     }
    },
-   "xfrm_hash": "3fd5198393dcb9bf8ae3e36e462add73fd7d9a6b",
+   "xfrm_hash": "6e6082cfc2863fa550fad16caa952240dc527f7f",
    "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/manifest.xml-2ff1b61a2bc478dd",
-   "xfrm_size": 668
+   "xfrm_size": 719
   },
   {
    "compression": 8,

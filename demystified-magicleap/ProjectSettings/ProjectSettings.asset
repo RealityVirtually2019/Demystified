@@ -673,6 +673,7 @@ PlayerSettings:
   - CameraCapture
   - ControllerPose
   - GesturesConfig
+  - GesturesSubscribe
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 03cb4613-9245-4cae-ab0d-43f07c0a85fd
