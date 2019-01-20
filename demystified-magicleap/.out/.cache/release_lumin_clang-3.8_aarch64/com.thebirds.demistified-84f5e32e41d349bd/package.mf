@@ -2,16 +2,100 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "7cd88599511726798fbeb90c0b1465f9ce145d44",
+   "hash": "c2eb46eaeba5a2b1de9e98a3e47db1f166e27d3e",
+   "pkgpath": "Data/0a7522a83361cf046839bedbd9c386c7",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/0a7522a83361cf046839bedbd9c386c7"
+  },
+  {
+   "compression": 8,
+   "hash": "1db7595851cd5396bbba433857d695d16da1f5b9",
+   "pkgpath": "Data/0a7522a83361cf046839bedbd9c386c7.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/0a7522a83361cf046839bedbd9c386c7.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8b4b20887391e0e1a10288be7f9ba5474e892789",
+   "pkgpath": "Data/1cb88bcd5fd39a444a8eaeb672b588be",
+   "size": 5372,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/1cb88bcd5fd39a444a8eaeb672b588be"
+  },
+  {
+   "compression": 8,
+   "hash": "233b1dd33418d7fb0e995d8a6e819a9cac48f720",
+   "pkgpath": "Data/2ae4ee31155acf543a798db0514b3cc0",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/2ae4ee31155acf543a798db0514b3cc0"
+  },
+  {
+   "compression": 8,
+   "hash": "91a073dfdc3e733cf3041da609d7370f6fac27f1",
+   "pkgpath": "Data/2ae4ee31155acf543a798db0514b3cc0.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/2ae4ee31155acf543a798db0514b3cc0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "903f121433e0641bb504ec20a75182e008f2a176",
+   "pkgpath": "Data/2efaa2ddf7595af4987d403f6a48a8bd",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/2efaa2ddf7595af4987d403f6a48a8bd"
+  },
+  {
+   "compression": 8,
+   "hash": "58d045a44c046c6648564183f9d7535ce47dd395",
+   "pkgpath": "Data/2efaa2ddf7595af4987d403f6a48a8bd.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/2efaa2ddf7595af4987d403f6a48a8bd.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ec80f42bf9fd316a713a4dc52d27da2df9705478",
+   "pkgpath": "Data/33b9f1f8cdf36764ba2055c533bf840c",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/33b9f1f8cdf36764ba2055c533bf840c"
+  },
+  {
+   "compression": 8,
+   "hash": "de33d591a76c27494f1799a3a04f009749c4dbe1",
+   "pkgpath": "Data/33b9f1f8cdf36764ba2055c533bf840c.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/33b9f1f8cdf36764ba2055c533bf840c.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "49211dbea76a0cd5a8071f6280f9ca0d082b65e6",
+   "pkgpath": "Data/670ad9afb5c51b542951b338b085f5f8",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/670ad9afb5c51b542951b338b085f5f8"
+  },
+  {
+   "compression": 8,
+   "hash": "6d751e4955c1089f8ea78a814d912c8f47e6777a",
+   "pkgpath": "Data/670ad9afb5c51b542951b338b085f5f8.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/670ad9afb5c51b542951b338b085f5f8.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "2c2c11a4d656f7ae44e30942c007c9a1d46fe1e4",
+   "pkgpath": "Data/944e2786b388ae64bb652b63f50a6023",
+   "size": 5372,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/944e2786b388ae64bb652b63f50a6023"
+  },
+  {
+   "compression": 8,
+   "hash": "3232db4681b3984c1c92abd43cb49145151c7154",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3877860,
+   "size": 3884380,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "3470f6244cb62a2572bcdf4fcf5aedb69d9eaab0",
+   "hash": "fa65ad1a673d321765cbcc5d2b0b2491310b4c47",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 50000312,
+   "size": 50061632,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -22,9 +106,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "ef72add01e1b6764e4779cb7e7f1b6fc1c8791c0",
+   "xfrm_hash": "ae995fab7d88933ea14c76e7f97cf59ec86f553d",
    "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libil2cpp.so-755fd36c3829a956",
-   "xfrm_size": 50001070
+   "xfrm_size": 50062390
   },
   {
    "compression": 8,
@@ -153,6 +237,20 @@
   },
   {
    "compression": 8,
+   "hash": "53b1bd5a66c1ee3c6296108e552fb232b455ece3",
+   "pkgpath": "Data/abb7aa6a3dcf95847a943519b29ec1d6",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/abb7aa6a3dcf95847a943519b29ec1d6"
+  },
+  {
+   "compression": 8,
+   "hash": "c42cff1f0297ccfca91ac872b9dd88f3d190cfce",
+   "pkgpath": "Data/abb7aa6a3dcf95847a943519b29ec1d6.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/abb7aa6a3dcf95847a943519b29ec1d6.resS"
+  },
+  {
+   "compression": 8,
    "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
    "pkgpath": "Data/boot.config",
    "size": 76,
@@ -160,23 +258,79 @@
   },
   {
    "compression": 8,
-   "hash": "49c6d5401de5f34f4f84e0b894795b4ddc550f10",
+   "hash": "b94c5058edda1c7e5d1b68b6ab3399da552b8afb",
+   "pkgpath": "Data/c101f99da83d80d4db8cd526fb7aca89",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/c101f99da83d80d4db8cd526fb7aca89"
+  },
+  {
+   "compression": 8,
+   "hash": "58dbf6fdd0c150907be03cba4eda3e2617778651",
+   "pkgpath": "Data/c101f99da83d80d4db8cd526fb7aca89.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/c101f99da83d80d4db8cd526fb7aca89.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bccce7a7b9fba73bdc1f3f5527222bdbcfc8b58b",
+   "pkgpath": "Data/c342b9d016cc18e40a814439d5ae360d",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/c342b9d016cc18e40a814439d5ae360d"
+  },
+  {
+   "compression": 8,
+   "hash": "51cf0cf584cb940ee100aceceb5a9ab0577614d8",
+   "pkgpath": "Data/c342b9d016cc18e40a814439d5ae360d.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/c342b9d016cc18e40a814439d5ae360d.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d06e74bd1a86fc40a0d2615059c09692cd5221e5",
+   "pkgpath": "Data/e4c20deb24b9b2941a1757f122edbf3d",
+   "size": 5392,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/e4c20deb24b9b2941a1757f122edbf3d"
+  },
+  {
+   "compression": 8,
+   "hash": "d68ed502dc98a5730f655c6dd9023c8dfac05c1a",
+   "pkgpath": "Data/f02537be58055fb43945c02413c7d8c4",
+   "size": 4236,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/f02537be58055fb43945c02413c7d8c4"
+  },
+  {
+   "compression": 8,
+   "hash": "0ede498121f565c1e331444e7e71a355e242eed5",
+   "pkgpath": "Data/f02537be58055fb43945c02413c7d8c4.resS",
+   "size": 10952,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/f02537be58055fb43945c02413c7d8c4.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "7bd38c19baced1354ebb804c1cb382d4604b78d7",
+   "pkgpath": "Data/f0e6432d0c161f0438eaa5961f74bd95",
+   "size": 10468,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/f0e6432d0c161f0438eaa5961f74bd95"
+  },
+  {
+   "compression": 8,
+   "hash": "bb251b111cfaade945de8658d2c8eb3f667e4455",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 34544,
+   "size": 36136,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "76da8e9b0f9229ce5740057d18fdd950a9565187",
+   "hash": "bd385cf71c6555e68c1ef758a82ad10a67910db3",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 39008,
+   "size": 39480,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "02dcdac4ff538f56d7d6d3fef5fd0c87c8ad1265",
+   "hash": "ca540fde7c0e74c0854d84e203332af48eef5e86",
    "pkgpath": "Data/level0",
-   "size": 70788,
+   "size": 187120,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
   },
   {
@@ -188,17 +342,24 @@
   },
   {
    "compression": 8,
-   "hash": "3052d69639c25f5fe4190952b6eb9702d547dc7f",
+   "hash": "7546871120e4c2a53cee1668c1f72f5c2dc39835",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 5819188,
+   "size": 20419388,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "1ab9524cd2cdfb8f8dcf24cf009feeecd6e8bdd0",
+   "hash": "c25cccc097dc97e51139cf5a1bd15bff1cc4613b",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 12383092,
+   "size": 43148332,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "cc0194ac5bddc813ba71d1159045e07a7f908302",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 167776,
+   "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.resource"
   },
   {
    "compression": 8,
