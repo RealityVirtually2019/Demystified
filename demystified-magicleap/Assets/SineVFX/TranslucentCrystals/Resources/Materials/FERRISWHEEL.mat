@@ -95,27 +95,27 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EmissionPower: 1.85
+    - _EmissionPower: 4.48
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 0.25
+    - _Metallic: 0.321
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _RampEnabled: 0
     - _RampInverted: 0
-    - _Smoothness: 1
+    - _Smoothness: 0.494
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _TransAmbient: 1
-    - _TransDirect: 1
-    - _TransNormalDistortion: 0.1
-    - _TransScattering: 10
-    - _TransShadow: 0.9
-    - _Translucency: 0
-    - _TranslucencyMaskPower: 1
+    - _TransDirect: 0
+    - _TransNormalDistortion: 0.361
+    - _TransScattering: 1
+    - _TransShadow: 1
+    - _Translucency: 20.1
+    - _TranslucencyMaskPower: 0.983
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0
