@@ -314,7 +314,7 @@
   },
   {
    "compression": 8,
-   "hash": "2540b98baba74ea23343cfcbaaf60c4f6938cbd5",
+   "hash": "a73a112544de63db8fa72e36dfdbb932abe79595",
    "pkgpath": "Data/globalgamemanagers",
    "size": 36224,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
@@ -328,9 +328,9 @@
   },
   {
    "compression": 8,
-   "hash": "759cdf42301455ff93e3add015a87149357351cd",
+   "hash": "435e5ce87641d9b48368374ec738aa439c6faf11",
    "pkgpath": "Data/level0",
-   "size": 180244,
+   "size": 180912,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
   },
   {
@@ -342,9 +342,9 @@
   },
   {
    "compression": 8,
-   "hash": "163e913ac051c8caa4bb45cd0a3d3d5ce6205783",
+   "hash": "f17cb8355ede699137f890542dc5db8d617683a6",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 20498652,
+   "size": 20460932,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -356,9 +356,9 @@
   },
   {
    "compression": 8,
-   "hash": "a3c57fc0ce0ec03636043cd93f83eb6bd8d1d651",
+   "hash": "8c2d4450d9693df68f151809ccb5c7adb096e61d",
    "pkgpath": "Data/sharedassets0.resource",
-   "size": 11930208,
+   "size": 11937984,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.resource"
   },
   {
