@@ -1260,6 +1260,138 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!1001 &236402494
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1828103600}
+    m_Modifications:
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.17900002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6889873
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7247734
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -87.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.10000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.10000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 21200002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 175056d48d5fd4892a1df30462139569, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &236402495 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+  m_PrefabInternal: {fileID: 236402494}
+--- !u!1 &236402496 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100002, guid: 5cec1bc02682743cab28bbaeee92f0b0, type: 3}
+  m_PrefabInternal: {fileID: 236402494}
+--- !u!114 &236402497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 236402496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997207cc3f9e14012a8a93eac1e08d9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collisionType: 0
+  onCollisionInvoke:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 236402498}
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1926096686}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1358538995}
+        m_MethodName: DisableChildrenExceptFor
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 1828103600}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!65 &236402498
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 236402496}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.9999738, y: 0.2147995, z: 0.2}
+  m_Center: {x: 0, y: 0.00000047683716, z: 0}
 --- !u!4 &261309028 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4771849808082116, guid: 73680f7d1a9dadb40bb5ce6abd58e1be,
@@ -10983,7 +11115,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1279836762415598, guid: 9155ace28231c47c09eb35f0e918ce60, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9155ace28231c47c09eb35f0e918ce60, type: 2}
@@ -11416,6 +11548,55 @@ Transform:
   m_Father: {fileID: 1510034528}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &633202770 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1279836762415598, guid: 9155ace28231c47c09eb35f0e918ce60,
+    type: 2}
+  m_PrefabInternal: {fileID: 514831704}
+--- !u!114 &633202771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 633202770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09f80cfdad1a95e47865376dd0849b81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartScale: {x: 0, y: 0, z: 0}
+  GrowToScale: {x: 0.8795819, y: 0.8795835, z: 0.8795835}
+  TimeToChangeScale: 25
+  OptionalSoundToPlayOnScaleChange: {fileID: 0}
+--- !u!114 &633202772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 633202770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c9d17a1a63e46e0b84beb3a3a28c5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  addDelay: 0
+  delay: 3
+  onEnable:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 633202771}
+        m_MethodName: Grow
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &634920810
 GameObject:
   m_ObjectHideFlags: 0
@@ -16377,7 +16558,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &712431898
 Transform:
   m_ObjectHideFlags: 0
@@ -36021,7 +36202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1114328281}
   m_Layer: 0
-  m_Name: FerrisWheel
+  m_Name: FerrisWheel - START
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36034,7 +36215,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1114328280}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.084, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1030564353}
@@ -36336,15 +36517,15 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 104ad27cd40714b97aee04f51eda1eeb, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 972b01c06912e4020928a9a192ee889b, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.27
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 256
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -41301,6 +41482,7 @@ Transform:
   m_Children:
   - {fileID: 1701944020}
   - {fileID: 168103798}
+  - {fileID: 1828103600}
   m_Father: {fileID: 1995124967}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -53552,7 +53734,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 29684
+        atime1: 5204
         atime2: 41056
         atime3: 65535
         atime4: 65535
@@ -56857,6 +57039,35 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!1 &1828103599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1828103600}
+  m_Layer: 0
+  m_Name: '[CHOOSE SIGNATURE]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1828103600
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1828103599}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 236402495}
+  m_Father: {fileID: 1358538994}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1828323884
 GameObject:
   m_ObjectHideFlags: 0
@@ -57209,7 +57420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1995124967}
   m_Layer: 0
-  m_Name: '[1] The Painting'
+  m_Name: '[PAHSE TWO] Painting - [DISABLE ME]'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -57712,7 +57923,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2069999511
 Transform:
   m_ObjectHideFlags: 0
