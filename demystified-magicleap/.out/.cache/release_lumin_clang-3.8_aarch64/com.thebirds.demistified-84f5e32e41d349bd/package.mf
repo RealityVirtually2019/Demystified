@@ -314,7 +314,7 @@
   },
   {
    "compression": 8,
-   "hash": "a73a112544de63db8fa72e36dfdbb932abe79595",
+   "hash": "0fa3e597a5d7cfc9157a5483daed39e3489a971f",
    "pkgpath": "Data/globalgamemanagers",
    "size": 36224,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
@@ -328,7 +328,7 @@
   },
   {
    "compression": 8,
-   "hash": "435e5ce87641d9b48368374ec738aa439c6faf11",
+   "hash": "8e8b62c2a45f64620016a65ece9ddeecfa973086",
    "pkgpath": "Data/level0",
    "size": 180912,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
