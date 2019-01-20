@@ -86,16 +86,16 @@
   },
   {
    "compression": 8,
-   "hash": "3232db4681b3984c1c92abd43cb49145151c7154",
+   "hash": "247f19ec370fae8b0559737c4fc517253156d8ea",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3884380,
+   "size": 3884904,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "fa65ad1a673d321765cbcc5d2b0b2491310b4c47",
+   "hash": "b427c36fac32d342dcb03e8d6eca6f059f2b8262",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 50061632,
+   "size": 50067896,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -106,9 +106,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "ae995fab7d88933ea14c76e7f97cf59ec86f553d",
+   "xfrm_hash": "b0c006ca29e7e2ae3c672d398caf69422a917566",
    "xfrm_path": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/.out/.cache/release_lumin_clang-3.8_aarch64/com.thebirds.demistified-84f5e32e41d349bd/libil2cpp.so-755fd36c3829a956",
-   "xfrm_size": 50062390
+   "xfrm_size": 50068654
   },
   {
    "compression": 8,
@@ -314,23 +314,23 @@
   },
   {
    "compression": 8,
-   "hash": "bb251b111cfaade945de8658d2c8eb3f667e4455",
+   "hash": "5af30cdf4623daf3aee899577a820454819764a9",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 36136,
+   "size": 36176,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "bd385cf71c6555e68c1ef758a82ad10a67910db3",
+   "hash": "5037bbb8071819b5b0c25eb02a5179c593b18989",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 39480,
+   "size": 39592,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "ca540fde7c0e74c0854d84e203332af48eef5e86",
+   "hash": "bf647679d518d7d74f7fbd8ca783d5c4a6e560cc",
    "pkgpath": "Data/level0",
-   "size": 187120,
+   "size": 190236,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/level0"
   },
   {
@@ -342,9 +342,9 @@
   },
   {
    "compression": 8,
-   "hash": "7546871120e4c2a53cee1668c1f72f5c2dc39835",
+   "hash": "c734ba235f76b8d58a0dab771f5d74dba39e605c",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 20419388,
+   "size": 20419500,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -356,9 +356,9 @@
   },
   {
    "compression": 8,
-   "hash": "cc0194ac5bddc813ba71d1159045e07a7f908302",
+   "hash": "1aabf0dbb19c3f40b6ea86cf07645cffd121f8de",
    "pkgpath": "Data/sharedassets0.resource",
-   "size": 167776,
+   "size": 608640,
    "src": "/Users/cierajones/Documents/MITVRHACK/Demystified/demystified-magicleap/Temp/StagingArea/Data/sharedassets0.resource"
   },
   {
